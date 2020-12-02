@@ -1,1 +1,2 @@
-# glowing-hipster
+# RaspberryPi LoRa Hat
+
