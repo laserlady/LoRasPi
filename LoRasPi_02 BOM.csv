@@ -1,0 +1,16 @@
+Line #,Name,Description,Designator,Footprint,Manufacturer Part Number 1,Manufacturer 1
+,,,,,,
+,BU2032SM-HD-G,Batteriehalter CR2032,BAT1,BU2032SM-HD-G,,
+,1u 25v,Capacitor 1uF 25V,"C1, C2",C-0603,,
+,100n 25V,Capacitor 100n 25V,"C3, C4",C-0603,,
+,733910080,SMA Connector THT gewinkelt,"CON1, CON3",733910080,733910080,Molex
+,RasPi Expansion,"Raspberry Pi, 40P Expansion port",CON2,,,
+,DS1307,"RTC, I2C, 64x8",IC1,SOIC8,,
+,24C64,EEPROM 64KBit I2C TSSOP8,IC2,TSSOP8,,
+,RN2483,LoRa Modul,MOD1,RN2483,RN2483A-I/RM105,Microchip
+,Header 7,"Header, 7-Pin",P1,,,
+,Header 6,"Header, 6-Pin",P2,,,
+,Header 2,"Header, 2-Pin","P3, P4",,,
+,FC-135R 32.7680KA-A3,"32,768KHz",Q1,FC-135,,
+,10k,Resistor 10k,"R1, R2, R3",R-0603,,
+,3K9,Resistor 3k9,"R4, R5",R-0603,,
